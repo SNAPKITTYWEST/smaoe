@@ -1,0 +1,9 @@
+smaoe
+smaoe_lisp
+smaoe_typein
+smaoe_verify
+smaoe_lisp_verify
+*.journal
+*.o
+*.dat
+.idea/
